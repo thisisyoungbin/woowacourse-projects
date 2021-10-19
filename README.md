@@ -6,7 +6,7 @@
 
 
 
-> [우아한테크코스](https://woowacourse.github.io/) 3기 과정을 통해 학습한 내용을 정리하는 저장소입니다.
+> [우아한테크코스](https://woowacourse.github.io/) 3기 백엔드 과정을 기록한 저장소입니다.
 
 <br/>
 
@@ -30,7 +30,7 @@
 | :--------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 지하철 노선도 경로 조회 미션 | [java-subway-path-precourse](https://github.com/thisisyoungbin/java-subway-path-precourse) | [Pull Request](https://github.com/woowacourse/java-subway-path-precourse/pull/83) |
 
-
+<br/>
 
 ## 🧩 Level 1 : TDD, OOP, Refactoring, Clean Code (2021.02.03 – 2021.04.02)
 
