@@ -65,7 +65,7 @@
 |      블랙잭/step2      | [java-blackjack/step2](https://github.com/thisisyoungbin/java-blackjack/tree/step2) | [Pull Request](https://github.com/woowacourse/java-blackjack/pull/192) |
 |       체스/step1       | [java-chess/step1](https://github.com/thisisyoungbin/java-chess/tree/step1) | [Pull Request](https://github.com/woowacourse/java-chess/pull/179) |
 |       체스/step2       | [java-chess/step2](https://github.com/thisisyoungbin/java-chess/tree/step2) | [Pull Request](https://github.com/woowacourse/java-chess/pull/241) |
-|    투두리스트/step1    | [js-todo-list-step1](https://github.com/thisisyoungbin/js-todo-list-step1/tree/step1) | [Pull Request](https://github.com/woowacourse/js-todo-list-step1/pull/56) |
+|    투두리스트/step1    | [js-todo-list-step1](https://github.com/thisisyoungbin/js-todo-list-step1) | [Pull Request](https://github.com/woowacourse/js-todo-list-step1/pull/56) |
 
 <br/>
 
